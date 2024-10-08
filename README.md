@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Thanks for passing by! I'm taking my first steps in this world, any help will be greatly appreciated :)
 <!--
 **diciah/diciah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
